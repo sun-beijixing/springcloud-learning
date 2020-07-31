@@ -76,3 +76,6 @@ springcloud-learning
 mall项目全套学习教程连载中，**关注公众号**第一时间获取。
 
 ![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
+
+## 认证授权鉴权介绍
+https://cloud.tencent.com/developer/article/1661343
